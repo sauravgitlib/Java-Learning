@@ -8,6 +8,7 @@ public class HelloJava {
         int input=0;
         do {
             System.out.println("Do first");
+            System.out.println("test commit");
             input++;
         } while (input <=1);
         //Date date;;
