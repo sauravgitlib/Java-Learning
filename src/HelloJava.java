@@ -15,6 +15,8 @@ public class HelloJava {
         //System.out.println(date);
 //this is test messsage for commit
 
+        //hello
+
     }
 
     static int add(int x, int y) {
